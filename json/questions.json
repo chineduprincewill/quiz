@@ -1,0 +1,33 @@
+{
+    "OTE": {
+        "1": {
+            "question": "Who is the father of abraham",
+            "answer": "Terrah"
+        },
+        
+        "2": {
+            "question": "Who  made the heavens and the earth",
+            "answer": "God"
+        },
+
+        "3": {
+            "question": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, debitis reprehenderit eveniet excepturi ratione eius, totam temporibus incidunt animi expedita earum suscipit quas nobis maxime! Pariatur, debitis sit iure sequi hic eum qui. Iste maxime ut cumque saepe recusandae quos blanditiis repellat sed sint aliquam veritatis, placeat eos minima optio.",
+            "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, debitis reprehenderit eveniet excepturi ratione eius, totam temporibus incidunt animi expedita earum suscipit quas nobis maxime! Pariatur, debitis sit iure sequi hic eum qui. Iste maxime ut cumque saepe recusandae quos blanditiis repellat sed sint aliquam veritatis, placeat eos minima optio."
+        }
+    },
+
+    "OTH":{
+        "1": {
+            "question": "Who is the father of isaac",
+            "answer": "Abraham"
+        },
+
+        "2": {
+            "question": "Who killed goliath",
+            "answer": "David"
+        }
+    }
+
+
+
+}
