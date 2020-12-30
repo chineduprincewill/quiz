@@ -1,33 +1,1547 @@
 {
-    "OTE": {
+    "OTS": {
         "1": {
-            "question": "Who is the father of abraham",
-            "answer": "Terrah"
+            "question": "Which people asked for the possession of their father since he had no son?",
+            "answer": "Daughters of Zelophehad ( Mahla, Noah, Hoglah, Milcah, Tirzah). (Numbers 27: 1-4)"
         },
         
         "2": {
-            "question": "Who  made the heavens and the earth",
-            "answer": "God"
+            "question": "Which mountain did God give to Esau as a possession?",
+            "answer": "Mountain Seir (Deuteronomy 2: 5)"
         },
 
         "3": {
-            "question": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, debitis reprehenderit eveniet excepturi ratione eius, totam temporibus incidunt animi expedita earum suscipit quas nobis maxime! Pariatur, debitis sit iure sequi hic eum qui. Iste maxime ut cumque saepe recusandae quos blanditiis repellat sed sint aliquam veritatis, placeat eos minima optio.",
-            "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit, debitis reprehenderit eveniet excepturi ratione eius, totam temporibus incidunt animi expedita earum suscipit quas nobis maxime! Pariatur, debitis sit iure sequi hic eum qui. Iste maxime ut cumque saepe recusandae quos blanditiis repellat sed sint aliquam veritatis, placeat eos minima optio."
+            "question": "How many chapters are in the book of Deuteronomy?",
+            "answer": "34 chapters"
+        },
+
+        "4": {
+            "question": "Ichabod had a brother called ……………",
+            "answer": "Ahitub (1 Samuel 14: 3)"
+        },
+
+        "5": {
+            "question": "How many cities had Jair in the land of Gilead?",
+            "answer": "23 cities (1 Chronicles 2:22)"
+        },
+
+        "6": {
+            "question": "Mention the two sisters of David, son of Jesse.",
+            "answer": "a. Zeruiah, and b. Abigail. (1 Chronicles 2: 16)"
+        },
+
+        "7": {
+            "question": "Who was Abihail to Mordecai?",
+            "answer": "An Uncle  (Esther 2: 15)"
+        },
+
+        "8": {
+            "question": "Prophet Jeremiah’s father was a priest at where?",
+            "answer": "At Anathoth in the land of Benjamin. (Jeremiah 1:1)"
+        },
+
+        "9": {
+            "question": "According to the book of  Jeremiah 3, Which city was a false sister to Israel?",
+            "answer": "Judah (Jeremiah 3: 10)"
+        },
+
+        "10": {
+            "question": "According to the book of Hosea, which place did the Lord make a door of hope?",
+            "answer": "The valley of Achor. (Hosea 2: 15)"
+        },
+
+        "11": {
+            "question": "How many children had prophet Hosea, and mention them?",
+            "answer": "a. He had three children. b. iThey were Jezereel, ii  Not pitied and iii Not my people. (Hosea 1: 4-9)"
+        },
+
+        "12": {
+            "question": "The vision of Obadiah was concerning which city?",
+            "answer": "Edom  (Obadiah:1)"
+        },
+
+        "13": {
+            "question": "The vision of Nahum of Elkosh was concerning which city?",
+            "answer": "Nineveh (Nahum 1:1)"
+        },
+
+        "14": {
+            "question": "Who was the grandfather of Zechariah?",
+            "answer": "Iddo (Zechariah 1:1)"
+        },
+
+        "15": {
+            "question": "Spell..........",
+            "answer": "B-E-E-R-L-A-H-A-I-R-O-I"
+        },
+
+        "16": {
+            "question": "Who was the army commander of king Abimelech? ",
+            "answer": "Phicol (Genesis 21: 32)"
+        },
+
+        "17": {
+            "question": "Give the meaning of the names of these sons of Jacob (Gad and Asher)",
+            "answer": "Gad means Good fortune, Asher means Happy. (Genesis 30: 10-13)"
+        },
+
+        "18": {
+            "question": "The place where Laban made a covenant with Jacob was called ……….. by Leban; and ………… by Jacob. ",
+            "answer": "a. Laban called it Jegarsahadutha b. Jacob called it Galeed  (Genesis 31: 44-47)"
+        },
+
+        "19": {
+            "question": "What was the name of a place where Jacob saw the angels of God and called them the God’s army called? ",
+            "answer": "Mahanaim  (Genesis 32: 1-2)"
+        },
+
+        "20": {
+            "question": "Which mountain is known as the mountain of God, and state one significant thing that happened on it according to the book of Exodus 3? ",
+            "answer": "a. Mt. Horeb b. Bush was burning and yet was not consumed. (Exodus 3: 1-2)"
+        },
+
+        "21": {
+            "question": "Phinehas had a grandfather who was a Levite called ………………. ",
+            "answer": "Aaron (Moses elder brother) Exodus 6: 25"
+        },
+
+        "22": {
+            "question": "How many years were Moses and Aaron when they spoke to Pharoh to let the people of Israel go as commanded by God?",
+            "answer": "Moses was 80 years, while Aaron was 83 years. (Exodus 7: 7)"
+        },
+
+        "23": {
+            "question": "Which valley is known as the valley of palm trees in the holy bible?",
+            "answer": "The valley of Jericho   ( Deuteronomy 34: 3)"
+        },
+
+        "24": {
+            "question": "How old was Caleb when he received Hebron as an inheritance?",
+            "answer": "He was 85 years ( Joshua 14:10)"
+        },
+
+        "25": {
+            "question": "Which city was given to Joshua as an inheritance?",
+            "answer": "Timnathserah (Joshua 24:30)"
+        },
+
+        "26": {
+            "question": "At where did Saul prophesy, and before who?",
+            "answer": "At Naioth in Ramah, before Prophet Samuel (1 Sam 19: 24)"
+        },
+
+        "27": {
+            "question": "How old was Abram when Ishmael was born, and Ishmael means what?",
+            "answer": "a. 86years  b. Ishmael means God hears or The Lord has given heed to my affliction. (Gen 16:11 and 16)"
+        },
+
+        "28": {
+            "question": "How many men did Abram take to rescue Lot from the hands of Chedorlaomer, King of Elam?",
+            "answer": "318 men (Gen 14:14)"
+        },
+
+        "29": {
+            "question": "According to the book of Psalms 91: 1-3, Who will God deliver from the snare of the fowler and deadly pestilence?",
+            "answer": "He who dwells in the shelter of the Most High and abides in the shadow of the Almighty. (Psalms 91:1)"
+        },
+
+        "30": {
+            "question": "Cite Psalms 118:17",
+            "answer": "I shall not die but I shall live, and recount the deeds of the Lord"
+        },
+
+        "31": {
+            "question": "Who was the Father of  Nehemiah?",
+            "answer": "Hacaliah (Nehemiah 1:1)"
+        },
+
+        "32": {
+            "question": "According to Nehemiah 3, which type of gate did the sons of Hassenaah build at Jeruselem?",
+            "answer": "Fish gate (Nehemiah 3:3)"
+        },
+
+        "33": {
+            "question": "After the birth of Samson, where did the Spirit of God begin to stir him?",
+            "answer": "At Mahanehdan (Judges 13:25)"
+        },
+
+        "34": {
+            "question": "Mention the book,and chapter  where the history of the family of Jacob can be found in the Holy Bible?",
+            "answer": "Genesis 37"
+        },
+
+        "35": {
+            "question": "Asenath,the wife of Joseph was the daughter of who?",
+            "answer": "The daughter of Potiphera Priest of On ( Genesis 41:45)"
+        },
+
+        "36": {
+            "question": "Which book and chapter of the Holy Bible can this statement be found : For I have no pleasure in the death of anyone, says the Lord God; so turn and live",
+            "answer": "The book of Ezekiel  (Ezekiel 18: 32)"
+        },
+
+        "37": {
+            "question": "The place where God smote the people of Israel after sending Quails for them to eat was called.....?",
+            "answer": "Kibrothhattaavah  (Numbers 11:34)"
+        },
+
+        "38": {
+            "question": "Whose Prophecy did King Asa hear and put away the abominabale idols from all the land of Judah, Benjamin and in the hill country of Ephraim?",
+            "answer": "Azariah, The son of Oded  (II Chronicles 15:8)"
+        },
+
+        "39": {
+            "question": "The word of the Lord that came to Micah of Moresheth took place in the days of which kings of Judah?",
+            "answer": "In the Days of Jotham, Ahaz and Hezekiah (Micah 1:1)"
+        },
+
+        "40": {
+            "question": "What was Sennacherib, King of Assyria doing when his two sons slew him?",
+            "answer": "He was worshipping in the house of Nisroch, his god (Isaiah 37:37-38)"
+        },
+
+        "41": {
+            "question": "What did Jacob call the place, where he wrestled with an angel of the Lord?",
+            "answer": "He called it Peniel (Genesis 32:30)"
+        },
+        
+        "42": {
+            "question": "In which mountain did the Death of Moses happen?",
+            "answer": "On Mount Nebo, in the Land of Moab (Deuteronomy 32: 49)"
+        },
+
+        "43": {
+            "question": "Name any four of the minor Prophets you know ( in 15 seconds)?",
+            "answer": "Hosea, Joel, Amos, Obadiah, Jonah, Micah and Nahum."
+        },
+
+        "44": {
+            "question": "Name the four Israelites who remained faithful while in exile in Babylon?",
+            "answer": "Daniel or Belteshazar, Shadrach, Meshach and Abednego"
+        },
+
+        "45": {
+            "question": "What are the names of the midwives who refused to kill any male child born by the Hebrews as instructed by Pharoah?",
+            "answer": "a. Shiphrah  b. Puah  ( Exodus 1:15)"
+        },
+
+        "46": {
+            "question": "Who was the cupbearer of King Artaxerxes?",
+            "answer": "Nehemiah"
+        },
+
+        "47": {
+            "question": "Name the woman that used her Queenship to save her people in the Holy Bible?",
+            "answer": "Esther"
+        },
+
+        "48": {
+            "question": "Who changed Jacob’s wages, and how many times was it changed?",
+            "answer": "a. Laban  b. Ten (10) times."
+        },
+
+        "49": {
+            "question": "What offence did Achan commit?",
+            "answer": "He stole ( Joshua 7:21)"
+        },
+
+        "50": {
+            "question": "How old was Noah when the first destruction of the earth by flood took place?",
+            "answer": "600 years (Gen 7:6)"
+        },
+
+        "51": {
+            "question": "According to the book of Numbers, Who was described as being very meek, more than all men that were on the face of the Earth?",
+            "answer": "Moses ( Numbers 12:3)"
+        },
+
+        "52": {
+            "question": "Who made this statement to Daniel; '' May your God whom you serve continually, deliver you''?",
+            "answer": "king Darius"
+        },
+
+        "53": {
+            "question": "Who did Abraham marry after the death of Sarah?",
+            "answer": "Keturah"
+        },
+
+        "54": {
+            "question": "Who was the King the Spirit of God left and evil spirit took over?",
+            "answer": "Saul (1 Sam 16:14)"
+        },
+
+        "55": {
+            "question": "According to the book of Isaiah 36, who are the three representatives of king Hezekiah who met with King Sennacherib's aids.",
+            "answer": "a. Eliakim, in charge of Household  b. Shebna, the Secretary  c. Joah, the Recorder"
+        },
+
+        "56": {
+            "question": "According to the book of Jeremiah 35, whose house did Jeremiah offered wine to drink on the instruction of God",
+            "answer": "House of the Rechabites ( Jeremiah 35:2)"
+        },
+
+        "57": {
+            "question": "Who was the Father of Prophet Jeremiah",
+            "answer": "Hilkiah"
+        },
+
+        "58": {
+            "question": "Who are the three friends of Job?",
+            "answer": "a) Eliphaz, the Temanite  b) Bildad, the Shuhite c) Zophar, the Naamathite"
+        },
+
+        "59": {
+            "question": "The name of the Two sons of Prophet Samuel are.....",
+            "answer": "a) Joel  b) Abijah"
+        },
+
+        "60": {
+            "question": "How many Provinces were ruled by King Ahasuerus",
+            "answer": "127  Provinces ( Esther 1:1)"
         }
     },
 
-    "OTH":{
+    "OTD":{
         "1": {
-            "question": "Who is the father of isaac",
-            "answer": "Abraham"
+            "question": "During the creation of the world, when there was no rain nor man to till the ground, what went up from the earth and watered the whole face of ground?",
+            "answer": "A mist (Genesis 2:4-6)"
         },
 
         "2": {
-            "question": "Who killed goliath",
-            "answer": "David"
+            "question": "When the Lord had put a mark on Cain, where did he run to?",
+            "answer": "To the land of Nod, east of Eden (Genesis 4:16)"
+        },
+
+        "3": {
+            "question": "Cite 2nd Samuel 22:4",
+            "answer": "I call upon the Lord, who is worthy to be praised, and I am saved from my enemies."
+        },
+
+        "4": {
+            "question": "Who changed Eliakim the son of Josiah to Jehoiakin?",
+            "answer": "Pharoh Neco, king of Egypt (2nd Kings 23:34)"
+        },
+
+        "5": {
+            "question": "King Zedekiah was formerly known as--------------------------",
+            "answer": "Mattaniah (2nd Kings 24:17)"
+        },
+
+        "6": {
+            "question": "Quote the book, Chapter and verse where this statement can be found in the Holy Bible: “The Lord’s curse is on the house of the wicked, but he blesses the abode of the righteous” ",
+            "answer": "Proverbs 3:33"
+        },
+
+        "7": {
+            "question": "Cite Proverbs 8:17",
+            "answer": "I love those who love me, and those who seek me diligently find me."
+        },
+
+        "8": {
+            "question": "Cite Proverbs 22:1",
+            "answer": "A good name is to be chosen rather than great riches and favour is better than silver or gold."
+        },
+
+        "9": {
+            "question": "According to the book of Proverb 30:8 and 9, who made the following statements; ''Remove far from him falsehood and lying; give me neither poverty nor riches; feed me with the food that is needful for me,lest I be full and deny thee, and  say who is the Lord? or lest I will be poor and steal, and profane the name of my God''",
+            "answer": "Agur, son of  Jakeh of Massa."
+        },
+
+        "10": {
+            "question": "According to the book of Proverbs 30, there are four things on earth which are small, but they are exceedingly wise. What are they?",
+            "answer": "a) Ants, b) Badgers, c) Locusts and d) Lizard (Proverbs 30:24-28)"
+        },
+
+        "11": {
+            "question": "Who prophesied in the days of Hezekiah king of Judah, saying, “Zion shall be plowed as a field; Jerusalem shall become a heap of ruins, and the mountain of the house a wooded height.",
+            "answer": "Micah of Moresheth (Jeremiah 26:18)"
+        },
+
+        "12": {
+            "question": "Cite Ezekiel 18:25",
+            "answer": "“Yet you said, The way of the Lord is not just. Hear now,  oh House of Isreal; Is my way not just...Is it not your ways that are not just?''"
+        },
+
+        "13": {
+            "question": "Quote the Book, chapter and verse where this statement can be found: “The Lord is a jealous God and avenging, the Lord is avenging and wrathful; the Lord takes vengeance on His adversaries and keeps wrath for His enemies.”",
+            "answer": "Nahum 1: 2"
+        },
+
+        "14": {
+            "question": "Quote the Book, chapter and verse where this statement can be found: A man’s enemies are the men of  own house",
+            "answer": "Micah 7:6"
+        },
+
+        "15": {
+            "question": "Mention at least 4 poetical books in the Bible you know",
+            "answer": "a) Job,  b) Psalms,   c) Proverbs,   d) Ecclesiastes and   e) Songs of Solomon."
+        },
+
+        "16": {
+            "question": "Where can you find this statement in the Bible: “Curse be the cheat who has a male in his flock, and vows it and yet sacrifices to the Lord what is blemished”",
+            "answer": "Malachi 1: 14"
+        },
+
+        "17": {
+            "question": "This statement can be found where in the Bible? “For I the Lord do not change”",
+            "answer": "Malachi 3: 6"
+        },
+
+        "18": {
+            "question": "Why did king Saul save the Kenites when he was destroying the Amelekites",
+            "answer": "It was because they showed kindeness to all the people of Isreal when they came up out of Egypt (1 samuel 15:6)"
+        },
+
+        "19": {
+            "question": "According to the book of Numbers, Mention at least Four laws that guide a Nazarene?",
+            "answer": "a)He shall drink no strong wine.  b)He shall eat nothing that is produced with grapes.  c)No razor shall come upon his head.  d)He shall not go near a dead body.  e) He shall let the Locks of Hair grow long  f)  He shall be Holy (Numbers 6: 3-6)"
+        },
+
+        "20": {
+            "question": "Mention the two sons of Aaron who were consumed by God, and why?",
+            "answer": "a) Nadab and Abihu. b)  It was because they offered an unholy fire before the Lord. (Leviticus 10: 1-2)"
+        },
+
+        "21": {
+            "question": "Which people were called by Moses to carry the dead bodies of the sons of Aaron who were consumed by God?",
+            "answer": "They were Mishael and Elzaphan the sons of Uzziel.(Leviticus 10: 4)"
+        },
+
+        "22": {
+            "question": "According to the book of Leviticus, there is one law for guilt offering. What is the Law?",
+            "answer": "The law is that Priest who makes atonement with it shall have it. (Leviticus 7: 7)"
+        },
+
+        "23": {
+            "question": "After defeating the Amalekites, Moses built an altar and called it what?",
+            "answer": "The Lord is my banner. (Exodus 17: 15)"
+        },
+
+        "24": {
+            "question": "Where did Prophet Samuel hew Agag, King of Amalekites in Pieces before the Lord?",
+            "answer": "At Gilgal (1 Samuel 15:33)"
+        },
+
+        "25": {
+            "question": "Mention at least four princes of Persia and Media",
+            "answer": "a) Carshena, b) Shethar,  c) Admatha, d) Tarshish,  e) Meres f) Marsena and  g) Memucan .  (Esther 1:14)"
+        },
+
+        "26": {
+            "question": "Quote the book, chapter and verse where this statement can be found: “Agree with God, and be at peace; thereby good will come to you”",
+            "answer": "Job 22: 21"
+        },
+
+        "27": {
+            "question": "Cite Psalm 37: 5",
+            "answer": "Commit your way to the Lord; trust in him, and he will act"
+        },
+
+        "28": {
+            "question": "Who was Aaron's Uncle?",
+            "answer": "Uzziel"
+        },
+
+        "29": {
+            "question": "Cite Proverbs 10:2",
+            "answer": "Treasures gained by wickedness do not profit, but righteousness delivers from death"
+        },
+
+        "30": {
+            "question": "Complete and quote: “A good name is better than precious ointment; and ……………………",
+            "answer": "a) the day of death, than the day of birth. b) Ecclesiastes 7:1"
+        },
+
+        "31": {
+            "question": "Quote the book, chapter and verse where this statement can be found: “Consider the work of God; who can make straight what he has made crooked?” ",
+            "answer": "Ecclesiastes 7: 13"
+        },
+
+        "32": {
+            "question": "Cite Isaiah 9: 6",
+            "answer": ": “For to us a child is born, to us a son is given; and the government will be upon his shoulder, and his name will be called Wonderful Counsellor, Mighty God, Everlasting Father, Prince of Peace”"
+        },
+
+        "33": {
+            "question": "Where can we find this statement in the Bible: “Seek the Lord while he may be found, call upon him while he is near”",
+            "answer": "Isaiah 55:6"
+        },
+
+        "34": {
+            "question": "Hananiah the son of Azzur was a prophet from where?",
+            "answer": "Gibeon (Jeremiah 28: 1)"
+        },
+
+        "35": {
+            "question": "At where did the Lord break the dominion of Egypt, and made her pride come to an end? ",
+            "answer": "At Tehaphnehes (Ezekiel 30: 18)"
+        },
+
+        "36": {
+            "question": "According to Exodus 2, ''Gershom'' Means what?",
+            "answer": "I have been a sojourner in a Foreign Land"
+        },
+
+        "37": {
+            "question": "Quote the book, chapter and verse where this statement can be found in the Holy Bible:  “The Lord is in his holy temple; let all the earth keep silence before him”",
+            "answer": "Habakkuk 2: 20"
+        },
+
+        "38": {
+            "question": "Where did Aaron die and buried?",
+            "answer": "At Moserah (Deuteronomy 10: 6)"
+        },
+
+        "39": {
+            "question": "When Athaliah saw that her son was dead, she arose and destroyed all the royal family except who, and why? ",
+            "answer": "a)Except Joash the son of Ahaziah  b) It was because the daughter of King Joram stole him away from among the king’s sons who were about to be slain. (2 Kings 11: 1-2)"
+        },
+
+        "40": {
+            "question": "At where did Jehu kill the forty-two kinsmen of Ahaziah king of Judah?",
+            "answer": "At the pit of Betheked. (2 Kings 10: 14)"
+        },
+
+        "41": {
+            "question": "Mention the three daughters of Job.",
+            "answer": "a) Jemimah,  b) Keziah and  c) Kerenhappuch. (Job 42: 14)"
+        },
+
+        "42": {
+            "question": "Cite Psalm 37:3",
+            "answer": "Trust in the Lord, and do good; so you will dwell in the land, and enjoy security"
+        },
+
+        "43": {
+            "question": "Cite Proverbs 26: 27",
+            "answer": "He who digs a pit will fall into it, and a stone will come back upon him who starts it rolling"
+        },
+
+        "44": {
+            "question": "The letter to the exiles at Babylon was sent by Prophet Jeremiah through which people?",
+            "answer": "Through Elasah, the son of Shaphan, and Gemariah the son of Hilkiah (Jeremiah 29: 3)"
+        },
+
+        "45": {
+            "question": "Another name for Malachi is what?",
+            "answer": "My Messenger (Malachi 1:1)"
+        },
+
+        "46": {
+            "question": "Which people accompanied Zechariah to the house of Josiah, the son of Zephaniah for the coronation of Joshua the son of Jehozadak, as instructed by God?",
+            "answer": "a) Heldai,  b) Tobijah and  c) Jedaiah. (Zechariah 6: 9-12)"
+        },
+
+        "47": {
+            "question": "According to the book of Isaiah chapter 10, what type of vine is Israel? ",
+            "answer": "A luxuriant vine. (Hosea 10: 1)"
+        },
+
+        "48": {
+            "question": "Cite Proverbs 11:4",
+            "answer": "Riches do not profit in the day of wrath, but righteousness delivers from death"
+        },
+
+        "49": {
+            "question": "How many Ephraimites were killed by the Gileadites for not pronouncing Shibboleth properly as a sign of identity?",
+            "answer": "42,000 ( Judges 12:6)"
+        },
+
+        "50": {
+            "question": "Mention two books of the Old testament that warned against carrying corpse to the church?",
+            "answer": "Leviticus and Ezekiel"
+        }
+    },
+
+    "NTS":{
+        "1": {
+            "question": "How many generations were recorded from Abraham to David, and from David to the deportation to Babylon?",
+            "answer": "28 generations (Matthew 1: 17)"
+        },
+
+        "2": {
+            "question": "Having taken the child-Jesus to Egypt, for how long did Joseph remain there with his family?",
+            "answer": "Till death of King Herod <Matt 2: 15>"
+        },
+         "3": {
+            "question": "According to the book of Acts of the Apostles, how many persons gathered to choose who would replace Judas Iscariot?",
+            "answer": "120 Persons. (Acts 1:15)"
+        },
+         "4": {
+            "question": "According to the book of Acts 3:15, what name did Peter call Jesus when He was addressing the men of Israel?",
+            "answer": "The Author of Life"
+        },
+         "5": {
+            "question": "Fill in the Spaces as stated in the book of Romans 5: 3-4: We rejoice in our Sufferings, knowing that suffering produces ___________, and Character produces____________",
+            "answer": " (a) Endurance (b) Hope."
+        },
+        "6": {
+            "question": "Cite Romans 8:8",
+            "answer": "Those who are in the flesh cannot please God"
+        },
+        "7": {
+                    "question": "Why was St. Paul called god at Malta?",
+                    "answer": "This was because he unfastened a viper on his hand and remained unharmed. <Acts 28:3-6>"
+                },
+        "8": {
+                    "question": "Whose father was healed by St. Paul at Malta?",
+                    "answer": " Publius’ father <Acts 28:8>"
+                },
+        "9": {
+                    "question": "Which church became an example to believers in Macedonia and Achaia?",
+                    "answer": "The church of the Thessalonians  <1st Thessalonians 1: 7>"
+                },
+        "10": {
+                "question": "Who were the people whom St. Paul said that had made shipwreck of their faith?",
+                "answer": "Hymenaeus and Alexander (1st Timothy 1: 20)"
+        },
+        "11": {
+            "question": "According to the book of II Timothy, mention the three persons who deserted St. Paul and went to other places due to their love with this present world?",
+            "answer": "They were Demas, Crescens and Titus (2nd Timothy 4: 10)"
+        },
+        "12": {
+                    "question": "Fill in the spaces as entrenched in the book of Hebrew Chapter 6: “We have as a sure and steadfast anchor of the soul, hope that enters into the inner shrine behind the curtains, where Jesus has gone as a (a)__________on our behalf , having become a high priest forever after the (b) _____________",
+                    "answer": "(a) Forerunner (b) Order of Melchizedek (Hebrew 6:19-20)."
+                },
+        "13": {
+                    "question": "Cite Hebrews 12:29",
+                    "answer": "For Our God is a Consuming fire."
+                },
+                
+        "14": {
+                    "question": "Zechariah was from whose division?",
+                    "answer": "Abijah (Luke 1:5)."
+                },
+        "15": {
+                    "question": "Elizabeth, the wife of Zechariah was the daughter of who?",
+                    "answer": "Aaron (Luke 1:5)"
+                },
+        "16": {
+                    "question": "Who did Paul send to explain the things that were in his letter to the Ephesians?",
+                    "answer": "Tychicus (Ephesians 6:21)."
+                },
+        "17": {
+                    "question": "According to the book of Philippians 4 mentioned the two women whom Paul entreated to agree in the Lord and laboured  with him in the gospel, whose names are in the book of life.",
+                    "answer": "Euochia and Syntyche (Philippians 4: 2-3)."
+                },
+        "18": {
+                    "question": "Who was St. Paul’s fellow worker soldier messenger and minister to his need, who nearly died for the work of Christ as embodied in the book of Philippians Chapter 2.",
+                    "answer": "Epaphroditus (Philippians 2:25-30)"
+                },
+        "19": {
+                    "question": "Complete this statement as embodied in the book of Matthew 16:24; “Then Jesus told his disciples, ‘If any man would come after me let him_____________________”?",
+                    "answer": "deny himself and take up his cross and follow me."
+                },
+        "20": {
+                    "question": "Which parable teaches about the way people understand the word of kingdom?",
+                    "answer": "Parable of the sower(Matt 13: 1-23)."
+                },
+        "21": {
+                    "question": "How many parable are recorded in the book of Matt. 13, and mention only two of them?",
+                    "answer": "(a) 4  (b) They are: Parable of the Sower, Parable of the weeds of the field, parable of a grain of mustard seed and parable of the leaven (Matthew 13:1-33)."
+                },
+        "22": {
+                    "question": "Where did Jesus meet two demoniacs who came out of tombs, so fierce that none could pass that way?",
+                    "answer": "At the Country of the Gadarenes | Gergesenes| Gerasenes (Matthew 8:28)."
+                },
+        "23": {
+                    "question": "According to the book of Romans Chapter 3, what are the two things that bear witness to the righteousness of God?",
+                    "answer": "The Law and the Prophet. (Romans 3: 21)"
+                },
+        "24": {
+                    "question": "The promise to Abraham and his descendant that they should inherit the world, did not come through the law but through__________?",
+                    "answer": "The righteousness of faith (Romans 4: 13)"
+                },
+        "25": {
+                    "question": "Who was an Israelite in whom there is no guile?",
+                    "answer": " Nathanael (John Chapter 1 :47)"
+                },
+        "26": {
+                    "question": "“Zeal for thy house will consume me”. To who was the statement referred and on what occasion according to the book of John Chapter 2?",
+                    "answer": "(a) Jesus Christ (b) When he drove out those who were selling Pigeons in his father’s house . (John 2:17)."
+                },
+        "27": {
+                    "question": "How many years did it take the Jews to build the Jerusalem temple which they thought was the one Jesus would destroy and build within three days?",
+                    "answer": "It took them forty-six(46) years. (John 2: 20)."
+                },
+        "28": {
+                    "question": "Cite John 14:2",
+                    "answer": "In my father’s house, there are many rooms. "
+                },
+        "29": {
+                    "question": "Gabbatha means what?",
+                    "answer": "Pavement (John 19:13)."
+                },
+        "30": {
+                    "question": "The place where Pilate sat in judgement against Jesus was called ________________?",
+                    "answer": "Pavement (Gabbatha is Hebrew name) (John 19:13)."
+                },
+                
+        "31": {
+                    "question": "Complete : “Let the elders who rule well, especially those who labour in preaching and teaching be considered worthy of _______________?",
+                    "answer": "double honour. (1 Timothy 5:17)."
+                },
+
+        "32": {
+                    "question": "Cite 1st Timothy 6: 10",
+                    "answer": "For the love of the money is the root of all evil."
+                },
+
+        "33": {
+                    "question": "According to the book of 2nd Timothy Chapter 4, who was a strong opposer of Paul’s messages, who did him great harm?",
+                    "answer": "Alexander the Coppersmith. (2nd Timothy 4: 14-15)."
+                },
+
+        "34": {
+                    "question": "Everyone who commits sin is guilty of what?",
+                    "answer": "Lawlessness (1st John 3:4)"
+                },
+
+        
+        "35": {
+                    "question": "Mention the three witness that prove that God has borne witness to his son according to the book of 1st John chapter 5.",
+                    "answer": "The Spirit , the water and the blood (1st John 5: 8-9)"
+                },
+
+        "36": {
+                    "question": "According to the book of Galatians 4, who was in slavery with her children and at where?",
+                    "answer": "(a) Hagar (b) At mount Sinai in Arabia  (Galatians 4:24)."
+                },
+
+        "37": {
+                    "question": "Who murmured against the Hebrews because their widows were neglected in the daily distribution according to the book of Acts?",
+                    "answer": "The Hellenists (Acts 6:1)"
+                },
+
+        "38": {
+                    "question": "Where did St. Peter heal a man who was bedridden and paralyzed for eight years and what was his name?",
+                    "answer": "(a) At Lydda (b) His name was Aeneas (Acts 9: 32-33)."
+                },
+
+        "39": {
+                    "question": "When Jesus heard that John the Baptist had been arrested, he withdrew into Galilee and dwelt in the territory of __________ and __________?",
+                    "answer": "Zebulun and Naphtali (Matthew 4: 13)."
+                },
+
+        "40": {
+                "question": "At what districts did Jesus heal the daughter of a Canaanite woman who was possessed by a demon?",
+                "answer": "At the district of Tyre and Sidon. (Matt. 15 : 21)."
+            },
+
+        "41": {
+                "question": "“You know nothing at all, you do not understand that it is expedient for you that one man should die for the people, and the whole nation should not perish”. The above statement was made by who to whom.",
+                "answer": "Caiaphas the high priest , to the Chief priests and the pharisees. (John 11: 47-50)."
+            },
+
+        "42": {
+                    "question": "Who consented to Stephen’s death according to Acts 8?",
+                    "answer": "Saul who was renamed Paul. (Acts 8:1)."
+                },
+
+        "43": {
+                    "question": "Where did Philip meet an Ethiopian Eunuch?",
+                    "answer": "At Gaza (Acts 8: 26)."
+                },
+
+        "44": {
+                    "question": "After Philip had preached and baptized the people of Samaria, ____ and ___ were  sent to them that they might receive the Holy Spirit?",
+                    "answer": "From Peter and John. (Acts 8: 14-15)."
+                },
+
+        "45": {
+                    "question": "When Gamaliel was addressing men of Israel concerning what they would do with the apostles, who were the men whom he used as examples that started well but ended badly?",
+                    "answer": "They were Theudas and Judas the Galilean. (Acts 5: 35-37)."
+                },
+
+        
+        "46": {
+                    "question": "Prophet Isaiah was the son of who?",
+                    "answer": "Amoz (Isaiah 2:1)."
+                },
+
+        "47": {
+                    "question": "Cite Song of Solomon 2: 1?",
+                    "answer": "AI am a rose of Sharon, a lily of the valleys."
+                },
+
+        "48": {
+                    "question": "King Solomon had his great vineyard at where?",
+                    "answer": "At Baalhamon (Song of Solomon 8: 11)."
+                },
+
+        "49": {
+                "question": "Who were reliable witnesses to Isaiah concerning what was written on a large tablet belonging to Mahershalalhashbaz, as Commanded by God?",
+                "answer": "They were Uriah the priest and Zechariah the son of Jeberechiah. (Isaiah 8 :1-2)."
+            },
+
+        "50": {
+                    "question": "Who broke the yoke-bars hung on the neck of prophet Jeremiah and what was his Punishment?",
+                    "answer": " (a) Prophet Hananiah (b) He was removed from the face of the earth (He died). (Jeremiah 28: 10-16)."
+            },
+
+        "51": {
+                "question": "“This man could have been set free if he had not appealed to Caesar”. Who made the above statement and to whom?",
+                "answer": "King Agrippa to Governor Festus. (Acts 26:32)."
+            },
+
+        "52": {
+                "question": "According to the book of 1st Corinthians Chapter 3, who did St. Paul say that watered, while he planted and God gave growth?",
+                "answer": "Apollos. (1stCorin 3:6)."
+            },
+
+        "53": {
+                "question": "Cite Mark 2: 28",
+                "answer": "The son of man is lord even of the Sabbath."
+            },
+
+        "54": {
+                    "question": "What was the last miracle performed by Jesus before his arrest?",
+                    "answer": "Restoring one of the ears of the slave of the high priest (Malchus). (Luke 22: 50-51; John 18: 10)"
+                },
+
+        "55": {
+                    "question": "What is the name of the angel of the bottomless pit called in Hebrew and in Greek and it’s meaning?",
+                    "answer": "(a) Hebrew – Abaddon, Greek – Apollyon  (b) It means destroyer. (Revelation 9:11)."
+                },
+
+        "56": {
+                    "question": "According the book of Matthew, where did Jesus enter after feeding the four thousand men, besides women and children?",
+                    "answer": "He went to the region of Magadan. (Matt 15: 39)."
+                },
+
+        
+
+            "57": {
+                    "question": "According to the book of Matt 16, what type of generation did Jesus confirm that sought for signs but no sign would be given to it except the sign of Jonah?",
+                    "answer": "An evil and adulterous generation. (Matt. 16:4)."
+                },
+
+            "58": {
+                    "question": "Where did Jesus ask his disciples this question: “Who do men say that the son of man is?",
+                    "answer": "At the district of Caesarea Philippi. (Matt 16: 13)."
+                },
+
+            "59": {
+                    "question": "Who was without father or mother or genealogy, and had neither beginning of days nor end of life, but resembling the son of God as a priest forever?",
+                    "answer": " Melchizedek, King of Salem. (Hebrews 7: 1-3)."
+                },
+
+            "60": {
+                    "question": "Who was not compelled to be circumcised though he was a Greek?",
+                    "answer": "Titus (Galatians 2:3)."
+                },
+
+        "61": {
+                    "question": "At where did Paul opposed Cephas to his face, because he stood condemned?",
+                    "answer": "At Antioch (Galatians 2:11)."
+                },
+
+        "62": {
+                    "question": "TalithaCumi means what?",
+                    "answer": "Little girl, I say to you, arise (Mark 5: 41)."
+                },
+
+        "63": {
+                    "question": "How many chapters are there in the book of Matthew?",
+                    "answer": "28 Chapters."
+                },
+
+        "64": {
+                    "question": "In one sentence, what does the parable of the weeds of the field talk about?",
+                    "answer": "The close of the age / the end time / (Matt 13: 36-43)."
+                },
+
+        "65": {
+                    "question": "How many days was Saul without sight?",
+                    "answer": "Three (3) days (Acts 9:9)."
+                },
+
+        "66": {
+                    "question": "Saul who was renamed Paul, was from where?",
+                    "answer": "Tarsus"
+                },
+
+        "67": {
+                    "question": "Who restored Saul’s sight and at where?",
+                    "answer": "Ananias, at the street called Straight (Acts 9:10-11)."
+                },
+
+        "68": {
+                    "question": "How many wings have the four living creatures each?",
+                    "answer": "Each has six (6) wings. (Revelation 4:8)."
+                },
+
+        "69": {
+                    "question": "For how long did the beast exercise its authority, utterly haughty and blasphemous words?",
+                    "answer": "For-Forty-two (42) months. (Revelation 13:5)."
+                },
+
+        "70": {
+                "question": "Cite the last statement in the book of Revelation.",
+                "answer": "The grace of the Lord Jesus be with all the saints, Amen. (Revelation 22:21)"
+            }
+
+    },
+
+    "NTD":{
+        "1": {
+            "question": "The reason the son of God appeared was to destroy the work of the devil. Quote the book, chapter and verse where this can be found.",
+            "answer": "1 John 3:8"
+        },
+
+        "2": {
+            "question": "Mention the two sons of Simon of Cyrene",
+            "answer": "Alexander and Rufus (Mark 15:21)"
+        },
+
+        "3": {
+            "question": "Quote the chapter and verse according to the book of Mark “With men it is impossible, but not with God; for all things are possible with God.",
+            "answer": "Mark 10:27"
+        },
+
+        "4": {
+            "question": "There were many lepers in the time of who?",
+            "answer": "Prophet Elisha (Luke 4:27)"
+        },
+
+        "5": {
+            "question": "Where was Paul stoned and dragged out of the city thinking that he was dead?",
+            "answer": "At Lystra (Acts 14: 8-19)"
+        },
+
+        "6": {
+            "question": "“Ask and it will be given you, seek, and you will find, knock and it will be opened to you”. Where can this passage be found in the bible?",
+            "answer": "Luke 11:9"
+        },
+
+        "7": {
+            "question": "Cite Luke 10:2",
+            "answer": "The harvest is plentiful, but the labourers are few, pray therefore the Lord of the harvest to send out labourers into his harvest"
+        },
+
+        "8": {
+            "question": "Complete the statement: “It is easier for heaven and earth to pass away, than for-------------------------------------------",
+            "answer": "One dot of the law to become void (Luke 16:17)"
+        },
+
+        "9": {
+            "question": "How many porticoes has the pool of Bethsaida, and state one significant thing that happened there?",
+            "answer": "(a) It has five (5) porticoes. (b) Jesus healed a man who was ill for thirty-eight (38) years (John 5:2-9)."
+        },
+
+        "10": {
+            "question": "Quote “To the pure all things are pure, but to the corrupt and unbelieving nothing is pure; that every mind and conscience are corrupted”",
+            "answer": "Titus 1: 15"
+        },
+
+        "11": {
+            "question": "What did Paul tell Titus to urge the younger men to do?",
+            "answer": "To control themselves (Titus 2:6)"
+        },
+
+        "12": {
+            "question": "Quote the book, chapter and verse where this can be found.. But to what angel has he ever said, “Sit at my right hand, till I make thy enemies a stool for thy feet”.",
+            "answer": "Hebrew 1:13"
+        },
+
+        "13": {
+            "question": "Cite Hebrew 4:12",
+            "answer": "For the word of God is living and active sharper than any two-edged sword piercing to the division of soul and spirit, of joints and marrow, and discerning the thoughts and intensions of the heart."
+        },
+
+        "14": {
+            "question": "Cite Hebrews 13:8",
+            "answer": "Jesus Christ is the same, yesterday, today and forever."
+        },
+
+        "15": {
+            "question": "According to the book of Hebrews, what are the outer tent and inner tent called?",
+            "answer": "Holy place and Holy of Holies (Hebrew 9:2-5)"
+        },
+
+        "16": {
+            "question": "Mention the last statement in the book of 1 John 5.",
+            "answer": "Little children, keep yourselves from idols. (1 John 5:21)"
+        },
+
+        "17": {
+            "question": "Who was John’s witness who was killed where the Satan dwells?",
+            "answer": "Antipas (Revelation 2:13)"
+        },
+
+        "18": {
+            "question": "According to the book of Revelation, which angels stopped the four angels standing at the four corners of the earth from destroying the earth?",
+            "answer": "An angels with the seal of the living God. (Revelation 7:2)"
+        },
+
+        "19": {
+            "question": "Who was a deaconess of the church at Cenchreae?",
+            "answer": "Phoebe (Romans 16 :1)"
+        },
+
+        "20": {
+            "question": "Prophet------------------------prophesied about a great famine that would befall the world, and it took place in the days of who?",
+            "answer": "(a) Prophet Agabus. (b) Days of Claudius (Acts 11:27-28)"
+        },
+
+        "21": {
+            "question": "Mention the Prophets and teachers who were praying and fasting, and the Lord told them to set apart Barnabas and Saul for the work to which he had called them.",
+            "answer": "They were Barnabas, Simeon called Niger, Lucius of Cyrene, Manaena and Saul. (Acts 13:1)"
+        },
+
+        "22": {
+            "question": "Cite James 4:8",
+            "answer": "Draw near to God and he will draw near to you. Cleanse you sinners, and purify your hearts you men of double mind."
+        },
+
+        "23": {
+            "question": "Quote according to the book of Mathew “You, therefore, must be perfect, as your heavenly father is perfect.”",
+            "answer": "Matthew 5:48"
+        },
+
+        "24": {
+            "question": "What was the first miracle performed by Jesus when he entered Capernaum according to the book of Mathhew?",
+            "answer": "Healing of a Centurion Servant who was paralysed (Matthew 8:5-13)"
+        },
+
+        "25": {
+            "question": "Where was Levi the son of Alphaeus when Jesus called him to follow him?",
+            "answer": "He was at the tax office (Mark 2:14)"
+        },
+
+        "26": {
+            "question": "On what event did Jesus use the word ‘Ephphatha’ and at where?",
+            "answer": "a) when he (Jesus) was healing a man who was deaf and had an impediment in his speech (b) At the Sea of Galilee (Mark 7:31-34)"
+        },
+
+        "27": {
+            "question": "Quote: “God shows no partiality”",
+            "answer": "Romans 2:11"
+        },
+
+        "28": {
+            "question": "“For we know him who said, “Vengance is mine, I will repay.” And again, “the lord will judge his people”. Where can this be found?",
+            "answer": "Hebrew 10:30"
+        },
+
+        "29": {
+            "question": "Anna, the daughter of Phanuel was from what tribe?",
+            "answer": "From the tribe of Asher (Luke 2:36)"
+        },
+
+        "30": {
+            "question": "In the fifteenth year of whose reign did John the Baptist begin to preach a baptism of repentance for the forgiveness of sin?",
+            "answer": "The rein of Tiberius Caeser (Luke 3:1)"
+        },
+
+        "31": {
+            "question": "Cite John 15: 20",
+            "answer": "Remember the word that I said to you, “A servant is not greater than his master”"
+        },
+
+        "32": {
+            "question": "Quote “ But my righteous one shall live by faith and if he shrinks back, my soul has no pleasure in him”",
+            "answer": "Hebrew 10:38"
+        },
+
+        "33": {
+            "question": "Whose blood did Pilate mingle with their sacrifices?",
+            "answer": "The blood of the Galileans ( Luke 13:1)"
+        },
+
+        "34": {
+            "question": "How many persons did the tower in Siloam fall upon and kill?",
+            "answer": "Eighteen (18) persons (Luke 13:4)"
+        },
+
+        "35": {
+            "question": "Quote “For that person must not suppose that a double minded man, unstable in all his ways, will receive anything from the Lord”",
+            "answer": "James 1:8"
+        },
+
+        "36": {
+            "question": "Cite James 4:17",
+            "answer": "Whoever knows what is right to do and fails to do it, for him it is sin"
+        },
+
+        "37": {
+            "question": "When Lot left Sodom, what were the two things used by God destroy the city (Sodom)?",
+            "answer": "God destroyed it with fire and sulphur (Luke 17:29)"
+        },
+
+        "38": {
+            "question": "The prayer of Jesus for the church can be found in what book and chapter of the Holy Bible and with how many verses?",
+            "answer": "a. John 17   b. Twenty-six(26) verses"
+        },
+
+        "39": {
+            "question": "Cite James 4:7",
+            "answer": "Submit yourselves therefore to God. Resist the devil and he will flee from you"
+        },
+
+        "40": {
+            "question": "Quote: Therefore it is said, “ Awake, O sleeper and arise from the dead, and Christ shall give you light”.",
+            "answer": "Ephesians 5:14"
+        },
+
+        "41": {
+            "question": "When was Peter arrested and imprisoned by King Herod?",
+            "answer": "During the days of unleavened bread (Acts 12:3)"
+        },
+
+        "42": {
+            "question": "King Saul was from which tribe and how long did he rule the Israelites?",
+            "answer": "a. Tribe of Benjamin b. For forty (40) years (Acts 13:21)"
+        },
+
+        "43": {
+            "question": "Where did St. Paul cut his hair and why?",
+            "answer": "At Cenchreae, because he had a vow (Acts 18:18)"
+        },
+
+        "44": {
+            "question": "State two outstanding qualities of Apollos who was a native of Alexandria.",
+            "answer": "He was eloquent, he was well versed in the scriptures (Acts 18 : 24)"
+        },
+
+        "45": {
+            "question": "At  where did St. Paul’s handkerchief heal the sick?",
+            "answer": "At Ephesus (Acts 19:1-12)"
+        },
+
+        "46": {
+            "question": "Which city is the temple keeper of the Artemis, and of the sacred stone that fell from the sky?",
+            "answer": "The city of the Ephesians (Acts 19:35)"
+        },
+
+        "47": {
+            "question": "Cite Matthew 7:6",
+            "answer": "Do not give dogs what is holy; and do not throw your pearls before swine, lest they trample them under foot and turn to attack you."
+        },
+
+        "48": {
+            "question": "Quote “Faith comes from what is heard, and what is heard comes from by the preaching of Christ.",
+            "answer": "Romans 10:17"
+        },
+
+        "49": {
+            "question": "Cite Acts 20:35",
+            "answer": "In all things I have shown you that by so toiling one must help the weak, remembering the words of the Lord Jesus, how he said, “It is more blessed to give than to receive”"
+        },
+
+        "50": {
+            "question": "Who took Paul’s girdle and bound his own feet and hands saying, “This says the Holy Spirit, so shall the Jews at Jerusalem bind the man who owns this girdle and deliver him into the hands of the Gentiles?",
+            "answer": "Prophet Agabus (Acts 21:10-11)"
+        },
+
+        "51": {
+            "question": "How many Jews made a plot and bound themselves by an oath neither to eat nor drink till they had killed Paul?",
+            "answer": "They were more than forty men. (Acts 23:12-13)."
+        },
+
+        "52": {
+            "question": "Cite Romans 14:20",
+            "answer": "Do not for the sake of food, destroy the work of God. Everything is indeed clean, but it is wrong for anyone to make others fall by what he eats."
+        },
+
+        "53": {
+            "question": "Who was the spokesman of Ananias, the high priest who accused Paul before Governor-Felix?",
+            "answer": "Tertullus (Acts 24: 1-2)."
+        },
+
+        "54": {
+            "question": "Who was the first convert in Asia?",
+            "answer": "Epaenetus (Romans 16: 5)."
+        },
+
+        "55": {
+            "question": "Cite Romans 6:1",
+            "answer": "What shall we say then?Are we to continue in sin that grace may abound?"
+        },
+
+        "56": {
+            "question": "At where was Paul let down in a basket through a window in the wall for escape, and who was he escaping from?",
+            "answer": "At Damascus, He was escaping from the governor under King Aretas.  (2nd Corinthians 11: 32-33)"
+        },
+
+        "57": {
+            "question": "Cite Romans 8:31",
+            "answer": "What then shall we say to this? If God is for us, who is against us?"
+        },
+
+        "58": {
+            "question": "Complete and quote: “Do not be deceived, bad company ruins________________",
+            "answer": "Good morals, 1st Corinthian 15 : 33"
+        },
+
+        "59": {
+            "question": "Cite 1st Timothy 6:6",
+            "answer": "There is great gain in godliness with contentment."
+        },
+
+        "60": {
+            "question": "Complete and quote: Avoid the godless chatter and contradictions of what is falsely called______________?",
+            "answer": "Knowledge, 1st Timothy 6:20"
+        },
+
+        "61": {
+            "question": "Which household in Asia often refreshed St.Paul and was not ashamed of his chains?",
+            "answer": "The household of Onesiphorus (2nd Timothy 1: 16)"
+        },
+
+        "62": {
+            "question": "According to the book of Revelation 8, the great star which fell from heaven as blown by the third angel is called what?",
+            "answer": "It is called Wormwood. (Revelation 8:10-11)"
+        },
+
+        "63": {
+            "question": "On what mountain did the lamb stand with a hundred and forty-four thousand who had his name and his father’s name written on their foreheads?",
+            "answer": "Mountain Zion (Revelation 14:1)"
+        }
+    },
+
+    "LCM":{
+        "1": {
+            "question": "Mention the number of medals  and the award given to Daddy Hezekiah by the UN World Peace Advocates on the 11th of October, 2020.",
+            "answer": "(a) three medals (b)The International Mayor of Peace."
+
+        },
+
+        "2": {
+            "question": "Mention the name of the group which gave  Daddy Hezekiah an award on the 25th December, 2020",
+            "answer": "United Minister's Congress "
+        },
+     "3": {
+            "question": "Mention the Title of the Sixth (6th) Lesson used in 2020 Church Carol Night in Living Christ Mission, Administrative Headquarters on the 23rd December,2020. ",
+            "answer": "Living Christ Mission, the church of the Holy Bible; and the Prophesy of Prophetess Helen Nkume "
+        },
+    "4": {
+                "question": "Mention the person who performed the carol of fifth(5th) Lesson titled, ''The Parable of Grasshopper''.",
+                "answer": "Unmerited Judith Ijara"
+            },
+    "5": {
+                "question": "Who read the 2020 Christmas Day address?",
+                "answer": "Engr Amara Ukonu."
+            },
+    "6": {
+                "question": "The two sceptre of Authority  bestowed on  Princess Onyinyeomachukwu Samuel on the 22nd November, 2020 were given to her by which Group ?",
+                "answer": "Redeemed Kids of Daddy Hezekiah"
+            },
+    "7": {
+                "question": "How many total of gold medals were given to hard working Children of God by UN World Peace Advocates?.",
+                "answer": "14 (12 were given initially, but Daddy later requested for extra two)"
+            },
+            
+    "8": {
+                "question": "Mention the branch which Unmerited Chinonso Adibe visited for foundation stone laying of their temple in 2020.",
+                "answer": ": Ifitedunu Branch, Umudioka"
+            },
+    "9": {
+                "question": "Mention any two of the numerous Awards given to Unmerited Chinonso Adibe on the 6th of December, 2020 by Awka Branch of the Church.",
+                "answer": "Embodiment of God's wisdom, strength, intelligence and knowledge (2). Bundle of God's wisdom (3). Nwaoma Chukwu Ji Amamihe cho mma (4). Our Beloved Daddy Hezekiah's Able worthy and Personal Assistant (PA). (5). Onye Ozi Mighty Hezekiah (6). Onye Ozi Living Christ Mission."
+            },
+    "10": {
+                "question": "What was the Theme of  the  2019 October International Pastors/workers Conference?",
+                "answer": "'Not everyone who says to me, LORD, LORD, shall enter the kingdom of  Heaven, but he who does the will of my Father who is in heaven...........''(Mathew 7:21-23)."
+            },
+    "11": {
+                "question": "Mention the Month and the Year Daddy Hezekiah travelled to Zambia from Nigeria.",
+                "answer": "May, 1974 "
+            },
+        "12": {
+                "question": "Mention the first Bible passage read by Daddy Hezekiah in his 2020 Easter Sunday Message ( during COVID-19 lockdown).",
+                "answer": "Psalm 58 vs 3 and 4"
+            },
+        "13": {
+                "question": "Who is the Pro-Chancellor and Chairman of Governing Council of Hezekiah University",
+                "answer": "Chief  Dr. Victor .C. Mere"
+            },
+    "14": {
+                "question": "When did the Press Association of Living Christ Mission Commences Bible Competition in the church?",
+                "answer": "31st December, 1992."
+        },
+        
+        "15": {
+            "question": "Mention the names of the three persons who made Comments during the official Cutting of 25th December 2020 Christmas Cake.",
+            "answer": "1. Dr Emma Wornu  2. Unmerited Chinonso Adibe  3. Bishop Chris Chukwuemeka"
+        },
+
+        "16": {
+            "question": "State the  Passages used for 2020 International Convention/  Pastors conference held in October.",
+            "answer": "a) Jeremiah  Chapter  7 vs 16   b) Jeremiah  chapter 14 vs 11-12  c) Psalm Chapter 18 vs 41"
+        },
+
+        "17": {
+            "question": "The Award, ''Delight of the Most High God','  was given to Princess Onyinyeomachukwu Samuel on the 1st January, 2018 by which people?",
+            "answer": "The Overseas children in Living Christ Mission."
+        },
+
+        "18": {
+            "question": "Mention the Title of the award given to Princess Onyinyeomachukwu Samuel on the 25th December, 2020 by the Blue Wearers of Living Christ Mission",
+            "answer": "God's Own Possession Forever"
+        },
+
+        "19": {
+            "question": "State the three key passages Daddy used to admonish his Children on the 25th December, 2020 while giving his Vote of Thanks.",
+            "answer": "a) Psalm 91   b) Psalm 116   c) Psalm 118"
+        },
+
+        "20": {
+            "question": "The Award, ''The Great Pillar Mother of Peace, Love and Encouragement', was given to Princess Onyinyeomachukwu Samuel by Mothers of Encouragement on which Date?",
+            "answer": "17th March, 2019"
+        },
+
+        "21": {
+            "question": "Mention the Award given to His Grace the Most Rev. Prof Daddy Hezekiah on the 24th April, 2016.",
+            "answer": "ANAPI MANGA JI ALLAH"
+        },
+
+        "22": {
+            "question": "Mention the date and the event that took place in which the Flag and Anthem of Hezekiah University were decided by the Church",
+            "answer": "i    24th June, 2016  ii. Temple Fathers Day"
+        },
+
+        "23": {
+            "question": "How many Awards were given to Princess Onyinyeomachukwu Samuel by the Temple Mothers of Living Christ Mission, worldwide in 2018?",
+            "answer": "8 Awards"
+        },
+
+        "24": {
+            "question": "Mention the significant event that took place on the 25th October, 2020 in Living Christ Mission",
+            "answer": "The Solidarity Prayer March in respect of President Donald Trump's re-election"
+        },
+
+        "25": {
+            "question": "Mention the two Awards given to Princess Onyinyeomachukwu Samuel by Shepherd Mother-General of Living Christ Mission on the 17th of March,2019.",
+            "answer": "i). ''The Princess of Peace and Righteousness''.   ii) ''My Right Hand''( Aka Nrim)"
+        },
+
+        "26": {
+            "question": "Where did the Award, ''Chukwunyere Ugwu, Ochi Udo 1 of Udo'' given to Princess Onyinyeomachukwu Samuel in 2019 take place?",
+            "answer": "At  Ezinihitte Mbaise, Imo State."
+        },
+
+        "27": {
+            "question": "The Award, ''NnedioraNma, Nneamaka, Oji ochi Eme oji  1 of Udo'' was given to Princess Chukwunazaekpere Hephzibah Favour,on which date?",
+            "answer": "27th Novemeber, 2019"
+        },
+
+        "28": {
+            "question": "Who called Daddy Hezekiah 'Akwa Nna'?",
+            "answer": "Lady Mmasinachi Umeh"
+        },
+
+        "29": {
+            "question": "Mention the Group that awarded Unmerited Chinonso Adibe, OMALICHA OLA EDO DADDY in 2020",
+            "answer": "Mothers of Encouragement"
+        },
+
+        "30": {
+            "question": "Mention the Two great awards  received by Daddy Hezekiah on his 51st Birthday in the Lord.",
+            "answer": "a. Beacon of Hope for The Nigerian Youths   b. Grand National Patron of Igbo Council of Ministers"
+        },
+
+        "31": {
+            "question": "Mention the Award which the Igbo Council of Ministers gave to Daddy Hezekiah in 2019",
+            "answer": "The Most Senior Prophet of our Generation."
+        },
+
+        "32": {
+            "question": "Mention the Title of the 1st Lesson in 2020 Church Carol Night in Living Christ Mission, Administrative Headquarters.",
+            "answer": "Importance of the Events, and The Birth of Jesus Christ."
+        },
+
+        "33": {
+            "question": "What was the significant event that happened on the 16th November, 2012 in Living Christ Mission?",
+            "answer": "Ordination of Church Elders"
+        },
+
+        "34": {
+            "question": "What was the song sang by Daddy Hezekiah on 25th of December, 2020 as a song of hope for 2021?",
+            "answer": "Because he lives I can face tomorrow"
+        },
+
+        "35": {
+            "question": "The thanksgiving Service held in commemoration of a successful Golden jubilee of Daddy Hezekiah took place on which date?",
+            "answer": "Easter Sunday, April 2018"
+        },
+
+        "36": {
+            "question": "Mention the number of times, and the period the Church holds her Pastors Conference yearly.",
+            "answer": "a) Three (3) times   b) February, June and October "
+        },
+
+        "37": {
+            "question": "What is the Title of Original Famous Nkwa group Album, Volume 4",
+            "answer": "Ibu Chim"
+        },
+
+        "38": {
+            "question": "State the Theme/ Passage used for 2020 February Pastor's Conference",
+            "answer": "'Now, Israel, what does the Lord your God require of you, but to fear the Lord your God, to walk in all his ways, to Love Him, to serve the Lord your God with all your heart and with all your soul, and to keep the commandments and statues of the Lord, which I command you this day for your good'? (Deuteronomy Chapter 10 Vs 12-13 )"
+        },
+
+        "39": {
+            "question": "When was Hezekiah University,Umudi issued temporal License  by the Federal Government?",
+            "answer": "7th May, 2015."
+        },
+
+        "40": {
+            "question": "The award, ''Worthy Ambassador of Onitsha Natives'' given to Princess Onyinyeomachukwu Samuel by Onitsha indigenes was on which Date?",
+            "answer": "25th December, 2015"
+        },
+
+        "41": {
+            "question": "State the Two Crowns, and what the Crowns represented, which  were given to the Great Princesses by God's Royal Family",
+            "answer": "a. Golden Crown ( representing Golden Jubilee of Daddy Hezekiah)  b. Silver Crown ( representing Silver jubilee of God's Royal "
+        },
+
+        "42": {
+            "question": "Mention the Awards and the date of the awards  given to Princess Chukwunazaekpere Favour and Princess Onyinyeomachukwu Samuel, respectively by the God's Royal Family",
+            "answer": "a).  i.  Royal Queen ( for Princess Chukwunazaekpere Favour) ii. Royal Triumphant Child of the Most High God ( for Princess Onyinyeomachukwu Samuel)   b) 1st January, 2018"
+        },
+
+        "43": {
+            "question": "State the Date, and the Event that took place upon which two knives where used for Cake Cutting.",
+            "answer": "a).  February, 2018   b). Birthday Thanksgiving of Princess Onyinyeomachukwu Samuel"
+        },
+
+        "44": {
+            "question": "Mention Two awards among others given to Princess Onyinyeomachukwu Samuel in 2018 by the Body of Pastors/ Preachers, Living Christ Mission.",
+            "answer": "i.  Chosen Anointed, Special and Precious Child of God, Almighty   ii. Mighty Restorer of Souls   iii. Beloved Child of Everlasting Living God."
+        },
+
+        "45": {
+            "question": "Mention the two Titles/awards given to Princess Onyinyeomachukwu Samuel Hezekiah by the Temple Fathers of living Christ Mission, worldwide",
+            "answer": "Adaomachukwu diora mma and Daughter of Light"
+        },
+
+        "46": {
+            "question": "On which year was the 1st Publication of Living Christ News magazine made?",
+            "answer": "1992"
+        },
+
+        "47": {
+            "question": "Mention the two awards given to Daddy Hezekiah by the two princesses",
+            "answer": "a. Beloved Mighty Grandson of the Almighty God   b. Beloved Mighty Son of Our Lord and Saviour Jesus Christ"
+        },
+
+        "48": {
+            "question": "The Award titled, 'An Honourable Graduate without a Questionable Character' was given to Princess Onyinyeomachukwu Samuel by who?",
+            "answer": "NALCS, IMSU chapter"
+        },
+
+        "49": {
+            "question": "After Covid-19 Lockdown 2020, what was the First time Our Beloved Daddy Hezekiah conducted church service in Living Christ Mission?",
+            "answer": "Temple Mother's Day Celebration"
+        },
+
+        "50": {
+            "question": "Which month is simply referred to as the Birth month of Living Christ Mission",
+            "answer": "February"
+        },
+
+        "51": {
+            "question": "The 7th Spiritual Dedication Anniversary thanksgiving of Princess Onyinyeomachukwu Samuel was performed on which date?",
+            "answer": "22nd November, 2020"
+        },
+
+        "52": {
+            "question": "State the awards given to Princess Onyinyeomachukwu Samuel by the Redeemed Kids of Daddy Hezekiah on 17th November 2016.",
+            "answer": "a. Princess of Excellence   b. Legendary Hero and Lioness of the 21st Century Youths"
+        },
+
+        "53": {
+            "question": "Where did our Beloved Daddy celebrate his Golden Jubilee?",
+            "answer": "At  International Conference Centre, Abuja"
+        },
+
+        "54": {
+            "question": "What is the Full Meaning of NALCS?",
+            "answer": "National Association of Living Christ Students"
+        },
+
+        "55": {
+            "question": "The Award, ''The Lord's Portion Forever '' was given to Princess Onyinyeomachukwu samuel on the 28th February, 2016 by which Group?",
+            "answer": "The Ushers of Living Christ Mission worldwide"
+        },
+
+        "56": {
+            "question": "Hezekiah University Umudi, Imo state had its maiden matriculation on which date, and how many students were matriculated?",
+            "answer": "a. 15th April, 2016   b. 110 ( One Hundred and Ten) students."
+        },
+
+        "57": {
+            "question": "Mention the Date Princess Onyinyeomachukwu samuel laid the foundation stone of Owerri Branch Ultra modern Temple.",
+            "answer": "18th September, 2016"
+        },
+
+        "58": {
+            "question": "State the Main Caption of Living Christ News magazine of 2016/2017 Edition",
+            "answer": "Living Christ Mission: 33 Symbolic Years."
+        },
+
+        "59": {
+            "question": "State the Bible passage on which the Theme of  the 33rd Annual International Convention of the Church was coined",
+            "answer": "2nd Chronicles chapter 15 vs 1 & 2"
+        },
+
+        "60": {
+            "question": "State the Significant event that happened in the annals of Living Christ Mission on the 13th April, 1994.",
+            "answer": "The Foundation of Administrative Headquarters of Living Christ Mission, Onitsha Temple was laid."
+        }
+    },
+
+    "EQ":{
+        "1": {
+            "question": "Where can this Statement be found:  ''In the thirtieth year, in the Fourth month, on the fifth day of the month, as I was among the exiles by the river Chebar, the heavens were opened, and I saw visions of God''",
+            "answer": "Ezekiel  ( Ezekiel 1:1)"
+        },
+
+        "2": {
+            "question": "'' And he said: The Lord roars from Zion, and utters his voice from Jerusalem; the pastures of the shepherds mourn, and the top of Carmel withers.'' . Where can this quotation be found",
+            "answer": "Amos ( Amos 1:2)"
+        },
+
+        "3": {
+            "question": "According to the book of Acts of the Apostles, who murmured against the Hebrews because their widows were neglected in the daily distribution of food?",
+            "answer": "The Hellenists ( Act 6: 1)"
+        },
+
+        "4": {
+            "question": "According to the Book of Acts of the Apostles, Paul was accused before  Governor Felix by the High Priest Ananias. Mention the two set of people brought by the high Priest to accuse Paul before the Governor.",
+            "answer": "a) Some Elders, and b) Tertullus ( the spokeperson)   (Acts 24 : 1-2)"
+        },
+
+        "5": {
+            "question": "How many persons were in the ship when Paul had a shipwreck in the sea of Adria",
+            "answer": "276 persons ( Acts 27:37)"
+        },
+
+        "6": {
+            "question": "''He who testifies to these things says, surely I am coming soon. Amen. Come, Lord Jesus''. Quote book, chapter, and verse",
+            "answer": "Revelation 22: 20"
+        },
+
+        "7": {
+            "question": "Who made this Prayer, '' My heart exults in the Lord; my strength is exalted in the LORD. My mouth derides my enemies, because I rejoice in thy salvation. There is none Holy like the Lord, there is none besides thee; there is no rock like our God. Talk no more so very proudly, let not arrogance come from your mouth; for the Lord is a God of knowledge''",
+            "answer": "Hannah ( 1 Samuel 2:1-3)"
+        },
+
+        "8": {
+            "question": "'' The words of Him who has the sharp two-edged sword. I know where you dwell, where Satan's throne is; you hold fast my name and you did not deny my faith even in the days of Antipas my witness, my faithful one, who was killed among you, where Satan dwells''. Which church did the statement referred to, according to the Book of Revelation.",
+            "answer": "The Church in Pergamum"
+        },
+
+        "9": {
+            "question": "According to the Book of Revelation, The woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars fled into the wilderness from the presence of the Dragon who intended to devour her. State the number of Days in which the woman will be nourished at the place God had prepared for her",
+            "answer": "1260 Days"
+        },
+
+        "10": {
+            "question": "State the statement which ends Psalm 150",
+            "answer": "Praise The Lord"
         }
     }
-
-
 
 }

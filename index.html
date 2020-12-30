@@ -11,27 +11,28 @@
     <section class="pageContainer">
         <div class="header shadow">
             <img src="./lcm_logo_round.png" alt="lcm Logo" style="width: 70px;">
-            <h1>Living Christ Mission Annual Quiz Competition</h1>
+            <h1>Living Christ Mission Quiz Competition</h1>
             <span>2020 EDITION</span>
         </div>
 
         <div class="container shadow" id="container">
-
         </div>
 
         <section class="request-container">
             <form class="request-form" id="request">
                 <select id="category" class="shadow" required>
                     <option value="">Choose Category</option>
-                    <option value="OTE">Old Testament Easy</option>
-                    <option value="OTH">Old Testament Hard</option>
-                    <option value="NTE">New Testament Easy</option>
-                    <option value="NTH">New Testament Hard</option>
+                    <option value="OTS">Old Testament Simple</option>
+                    <option value="OTD">Old Testament Difficult</option>
+                    <option value="NTS">New Testament Simple</option>
+                    <option value="NTD">New Testament Difficult</option>
+                    <option value="LCM">Living Christ Mission Questions</option>
+                    <option value="EQ">Elimination Questions</option>
                 </select>
 
                 <input type="text" class="shadow" name="question_number" id="question_number" placeholder="Question Number" required>
 
-                <button type="submit" class="submit">Get Question</button>
+                <button type="submit" id="question_submit" class="submit">Get Question</button>
             </form>             
             
 
